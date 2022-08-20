@@ -69,16 +69,6 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many
 Display output in the form of dictionary.
 {"chickens": no. of chickens, "rabbits": no. of rabbits}
 
-9:47 AM
-emoji-icon
-three-dots-icon
-
-ye to 3 set he hen
-
-9:49 AM
-emoji-icon
-three-dots-icon
-
 1. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
 2. Read n floating point numbers from a user and find their sum of squares and print the result upto 2 decimal places.
 3. Write a Python function to find the maximum and minimum numbers from a sequence of numbers.
