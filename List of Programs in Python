@@ -1,4 +1,5 @@
-Q1. Suppose there is two different types of dictionary, one dictionary contains registration number and name of student and another dictionary contains registration number and marks. Take 5 student details. Now display the student's result in terms of grade from the following condition:
+Q1. Suppose there is two different types of dictionary, one dictionary contains registration number and name of student and another dictionary contains
+registration number and marks. Take 5 student details. Now display the student's result in terms of grade from the following condition:
 If marks between 90 to 100:grade'O'
 marks between 80 to 90:grade'A+'
 marks between 70 to 80:grade'A'
@@ -6,9 +7,11 @@ marks between 60 to 70:grade'B+'
 marks between 50 to 60:grade'B'
 Display result in the form of dictionary.
 
-Q2. Create a program for a grocery calculator. It will take in key-value pairs for items and their prices, and return the subtotal and total, and can print out the list for you for when you're ready to take it.
+Q2. Create a program for a grocery calculator. It will take in key-value pairs for items and their prices, and return the subtotal and total,
+and can print out the list for you for when you're ready to take it.
 
-Q3. A website requires the users to input username and password to register. Take some sample password in a list and check which password will be valid for user.
+Q3. A website requires the users to input username and password to register. Take some sample password in a list and check which password will be valid
+for user.
 Following are the criteria for checking the password:
 1. At least 1 letter between [a-z]
 2. At least 1 number between [0-9]
@@ -17,7 +20,8 @@ Following are the criteria for checking the password:
 4. Minimum length of password: 6
 5. Maximum length of password: 12
 
-Q1. Suppose there is two different types of dictionary, one dictionary contains employee id and name of employee and another dictionary contains employee id and salary. Take 5 employee details. Now display the employee's designation from the following condition:
+Q1. Suppose there is two different types of dictionary, one dictionary contains employee id and name of employee and another dictionary contains 
+employee id and salary. Take 5 employee details. Now display the employee's designation from the following condition:
 If salary between 80,000 to 90,000:designation:Project Manager
 salary between 70,000 to 80,000:designation:Team Leader
 salary between 60,000 to 70,000:designation:Software Developer
@@ -37,12 +41,14 @@ D 100
 Then, the output should be:
 500
 
-Q3. You are required to write a program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers. Take inputs from user by a sequence of comma-separated. Then ask options for sort to follow the following criteria:
+Q3. You are required to write a program to sort the (name, age, height) tuples by ascending order where name is string, age and height are numbers. 
+Take inputs from user by a sequence of comma-separated. Then ask options for sort to follow the following criteria:
 1: Sort based on name;
 2: Then sort based on age;
 3: Then sort by height.
 
-Q1. Suppose there is two different types of dictionary, one dictionary contains product id and product name and another dictionary contains product id and product price. Take 5 product details. Now display the product's actual price from the following condition:
+Q1. Suppose there is two different types of dictionary, one dictionary contains product id and product name and another dictionary contains product id and
+product price. Take 5 product details. Now display the product's actual price from the following condition:
 If product price range between 5000 to 10000:GST Tax(10%)
 product price range between 4000 to 5000:GST Tax(8%)
 product price range between 3000 to 4000:GST Tax(7%)
@@ -51,7 +57,8 @@ Display result in the form of dictionary.
 
 Q2. Write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey", "Football"].
 
-Q1. Suppose there is two different types of dictionary, one dictionary contains customer id and customer name and another dictionary contains customer id and balance amount. Take 5 customer details. Now calculate the customer's total balance amount from the following condition:
+Q1. Suppose there is two different types of dictionary, one dictionary contains customer id and customer name and another dictionary contains 
+customer id and balance amount. Take 5 customer details. Now calculate the customer's total balance amount from the following condition:
 If balance amount is between 5000 to 10000:Interest(10%)
 balance amount is between 4000 to 5000:Interest(8%)
 balance amount is between 3000 to 4000:Interest(7%)
@@ -69,7 +76,8 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many
 Display output in the form of dictionary.
 {"chickens": no. of chickens, "rabbits": no. of rabbits}
 
-1. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
+1. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they 
+will turn 100 years old.
 2. Read n floating point numbers from a user and find their sum of squares and print the result upto 2 decimal places.
 3. Write a Python function to find the maximum and minimum numbers from a sequence of numbers.
 4. Write a program that reads a 5-digit positive integer and returns the sum of cubes of all digits of that number.
@@ -82,6 +90,7 @@ Display output in the form of dictionary.
 
 For example, suppose that the taxable income is $45000. The income tax payable is:
 $10000*0% + $10000*10% + $25000*20% = $6000.
+
 11. Write a program to print the following pattern with * (asterisks):
 * * * * * * * * *
 * * * * * * *
