@@ -1,0 +1,6 @@
+Problem Statement:
+Create a class named 'Transaction'. Create method inside class deposit() and withdrawal() which perform transaction operation and display result as a balance amount to the user screen.
+Follow the constraint:
+1. Initial balance amount should be 1000
+2. Maintain minimum balance in account always:1000 Rs.
+3. Amount only should be integer
