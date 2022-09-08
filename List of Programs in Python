@@ -117,3 +117,20 @@ $10000*0% + $10000*10% + $25000*20% = $6000.
 4 5 6
 7 8 9 1
 2 3 4 5 6
+Programm based on OOPs:
+Q:Create a class named 'Transaction'. Create method inside class deposit() and withdrawal() which perform transaction operation and display result as a balance amount to the user screen.
+Follow the constraint:
+1. Initial balance amount should be 1000
+2. Maintain minimum balance in account always:1000 Rs.
+3. Amount only should be integer
+
+Q: Create a class representing a company where a company has a minimum and maximum limit of the quantity of products. 
+Allow the user to order from the company product list (create a list of any ten products). 
+Apply proper constraint if user order more than the quantity available with the company.
+Based on the quantity generate the customer bill. Use the concept of constructor in generating bill.
+
+Q:Suppose there is University and there are different departments like SCA, SCS, EEE etc.
+Dean of this University want to know about the detail of the students who got highest marks in each of the department. 
+Write a program using the concept of inheritance.
+
+
